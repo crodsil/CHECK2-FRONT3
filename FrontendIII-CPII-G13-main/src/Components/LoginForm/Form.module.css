@@ -1,0 +1,29 @@
+.card{
+  width: 23rem;
+  gap: 2rem;
+  padding: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 1rem;
+  height: calc(100vh -82px);
+}
+
+.cardDark{
+  background-color: #fffdfd96;
+}
+
+form, span.erroForm {
+  color: rgb(61, 7, 7);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+h1{
+  color: rgb(194, 194, 241);
+  font-size: 26px;
+}
+
+.btn :disabled {
+  cursor: not-allowed;
+  opacity: .7;  
+}
+

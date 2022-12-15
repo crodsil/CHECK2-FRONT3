@@ -1,0 +1,40 @@
+.dark{
+  background-color: rgba(10, 10, 10, 0.5);
+}
+
+
+.card:hover{
+  border: 0.7px solid rgb(151, 155, 127);
+}
+
+.card:hover{
+  border: 0.7px solid rgb(126, 129, 111);
+}
+
+.CardBody{
+  width: 100%;
+  background-color: rgb(238, 232, 232);
+}
+
+.CardBodydark{
+  width: 100%;
+  background-color: rgb(241, 222, 222);
+}
+
+.title{
+  height: 2rem;
+}
+
+a{
+  color: rgb(10, 10, 10);
+  
+}
+
+a:hover{
+  color: rgba(10, 10, 10, 0.5);
+} 
+
+dark > a{
+  color: rgb(241, 6, 6)
+}
+

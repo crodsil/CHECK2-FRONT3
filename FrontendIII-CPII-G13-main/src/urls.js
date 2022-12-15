@@ -1,0 +1,1 @@
+export const ctdUrl = 'https://dhodonto.ctdprojetos.com.br/'
