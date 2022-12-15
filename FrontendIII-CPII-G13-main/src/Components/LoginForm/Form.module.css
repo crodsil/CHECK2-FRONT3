@@ -11,8 +11,14 @@
   background-color: #fffdfd96;
 }
 
-form, span.erroForm {
-  color: rgb(61, 7, 7);
+span.erroForm {
+  color: rgb(138, 5, 5);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+form {
+  color: rgb(119, 114, 114);
   font-size: 14px;
   font-weight: 400;
 }

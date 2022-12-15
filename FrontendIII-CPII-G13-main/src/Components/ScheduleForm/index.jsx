@@ -135,7 +135,7 @@ const ScheduleForm = () => {
           <div className={`row ${styles.rowSpacing}`}>
             <div className="col-12">
               <label htmlFor="appointmentDate" className="form-label">
-                Date
+                Data
               </label>
               <input
                 className="form-control"
