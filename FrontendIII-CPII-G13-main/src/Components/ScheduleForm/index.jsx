@@ -75,14 +75,14 @@ const ScheduleForm = () => {
       .then(response => response.json()
       .then((data) => {
         mySwal.fire({
-          text: 'Agendamento realizado com sucesso',
-          position: 'top', 
-          icon: 'success',   
-          showConfirmButton: true,       
+          text: 'Agendamento realizado com sucesso!',
+          color: 'blue',
+          position: 'center',    
+          showConfirmButton: true,
+          confirmButtonColor: 'grey'       
         })
         
       }
-      //     navigate('home')
       ))
 
       navigate('home')
